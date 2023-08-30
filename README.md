@@ -4,7 +4,7 @@
 > 
 > **USN:** 4NM21CM002
 > 
-> 3rd Sem, Computer and Communication Engineering
+> Computer and Communication Engineering
 > 
 > N.M.A.M. Institute of Technology, Nitte
 > 
