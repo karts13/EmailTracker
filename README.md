@@ -1,15 +1,3 @@
-## Personal details
-
-> **Name:** A Karthik Shneoy
-> 
-> **USN:** 4NM21CM002
-> 
-> Computer and Communication Engineering
-> 
-> N.M.A.M. Institute of Technology, Nitte
-> 
-> **Email:** karthishenoy2014@gmail.com
-
 # Automated Email tracker and Organizer
 
 ## Description
@@ -58,3 +46,6 @@
 > ![Pdf of Todays mails](https://user-images.githubusercontent.com/126340629/223623773-0a1e6e18-f702-47a8-9297-df7689c41405.png)
 > :--:
 > <b>Pdf of Todays mails</b>
+
+## Contributions 
+> If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
